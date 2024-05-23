@@ -1,7 +1,3 @@
-Sure, here's a draft for a README file for your PySpark linear regression script:
-
----
-
 # PySpark Linear Regression for Housing Price Prediction
 
 This repository contains a PySpark script for performing linear regression on housing data to predict house prices. The script utilizes PySpark's MLlib library for machine learning tasks and follows best practices for data preprocessing, model training, and evaluation.
@@ -54,15 +50,6 @@ The script reads housing data from a CSV file and performs the following steps:
    ```bash
    spark-submit linear_regression.py
    ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- This script was inspired by the need for efficient and scalable machine learning pipelines for big data analysis.
-- Special thanks to the Apache Spark community for developing and maintaining PySpark.
 
 ---
 
